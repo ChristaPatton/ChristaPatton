@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ChristaPatton
-- 👀 I’m interested in python,Django,.NET
-- 🌱 I’m currently learning pyhton,Django, .NET
+
 - 📫 How to reach me christa.patton.s@gmail.com
